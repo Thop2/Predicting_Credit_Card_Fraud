@@ -3,5 +3,4 @@ Predicting Credit Card Fraud in a dataset consisting of ~290,000 European credit
 
 ![frauddet](https://user-images.githubusercontent.com/45957263/201217780-d9289870-5415-4919-9dd0-641af5f127f4.jpg)
 
-![fraud_det_report](https://github.com/Thop2/Predicting_Credit_Card_Fraud/files/9985131/fraud_det_report.pdf)
-
+https://github.com/Thop2/Predicting_Credit_Card_Fraud/blob/main/fraud_det_report.pdf
